@@ -1,3 +1,3 @@
 print("Hello, World!")
-cvlook = open("home.html")
-print(cvlook.read)
+cv = open("home.html")
+print(cv.read(6))
